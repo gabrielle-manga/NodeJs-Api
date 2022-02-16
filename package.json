@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielle-manga/NodeJs-Api/issues"
   },
-  "homepage": "https://github.com/gabrielle-manga/NodeJs-Api#readme"
+  "homepage": "https://github.com/gabrielle-manga/NodeJs-Api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
